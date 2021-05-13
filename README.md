@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yosfin-Saputra
-- 👀 I’m interested in c languages, jvascript
+- 👀 I’m interested in c languages and javascript
 - 🌱 I’m currently learning c languges
 
 <!---
